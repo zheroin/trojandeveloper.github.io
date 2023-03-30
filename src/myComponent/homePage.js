@@ -12,7 +12,7 @@ class HomePage extends Component {
                 <img src={profile} className="profile-img" alt="prifile-image" />
               </div>
               <h1 className="name-css">
-                James <span className="surname">Lee</span>
+                Chester <span className="surname">Bushman</span>
               </h1>
               <p className="sub-detail">Full-Stack Developer</p>
               <br />
